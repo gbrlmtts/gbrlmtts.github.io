@@ -1,1 +1,1 @@
-Coming soon enough.
+Coming soon.
