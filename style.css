@@ -1,0 +1,23 @@
+body {
+    background-color: #272822; /* Monokai Dark */
+    color: #f8f8ff;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Altura da tela */
+    overflow: hidden; /* Desativa rolagem */
+    display: flex;
+    flex-direction: column; /* Alinha verticalmente */
+    align-items: flex-end; /* Alinha à direita */
+    justify-content: flex-end; /* Alinha na parte inferior */
+}
+
+.container {
+    text-align: center;
+}
+
+.mensagem {
+    font-size: 15px; /* Tamanho da fonte */
+    font-weight: bold;
+    padding-right: 15px;
+}
